@@ -100,7 +100,7 @@ var levelOne = false;
 
 for (var i = 0; i < quiz.length; i++) {
   console.log(quiz[i].que);
-  var answer = readlinesync.keyInSelect(quiz[i].options, 'Your answer: ');
+  var answer = readlinesync.keyInSelect(quiz[i].options, 'Your answer: ', {cancel: 'No idea'});
 
   if (answer === quiz[i].ans) {
     console.log(chalk.green('Correct answer :D'));
