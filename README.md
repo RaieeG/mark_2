@@ -1,7 +1,7 @@
 # GAME OF THRONES QUIZ
 This is a simple GOT quiz. 
 <br>
-It is a CLI app made with nodeJs.
+It is a CLI app made with nodeJs and hosted on replit.com
 
 
 LOGIC:
