@@ -11,6 +11,5 @@ I have created a array of objects that stores the the information abpout each qu
 LIBRARIES USED:
  <br>
   1. readline-sync --> used to read the input.
-  <br>
   2. CHALK --> For adding colours.
 
